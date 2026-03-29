@@ -3,12 +3,12 @@
 ## 📌 Overview
 
 This is a simple **Expense Tracker** web application built using the
-**MERN stack (MongoDB, Express, React, Node.js)**.\
+**MERN stack (MongoDB, Express, React, Node.js)**.
 It is one of my first full-stack projects and helped me gain a solid
 understanding of how modern web applications work end-to-end.
 
 🔗 **Repository:**
-https://github.com/muditkumarsingh/Expense-Tracker.git\
+https://github.com/muditkumarsingh/Expense-Tracker.git
 🌐 **Live Demo:** https://expense-tracker-omega-khaki-99.vercel.app/
 
 ------------------------------------------------------------------------
@@ -40,20 +40,20 @@ https://github.com/muditkumarsingh/Expense-Tracker.git\
 
 ## 🛠️ Tech Stack
 
--   **Frontend:** React (Vite), Tailwind CSS, React Router, Recharts\
--   **Backend:** Node.js, Express.js\
--   **Database:** MongoDB\
+-   **Frontend:** React (Vite), Tailwind CSS, React Router, Recharts
+-   **Backend:** Node.js, Express.js
+-   **Database:** MongoDB
 -   **Authentication:** JWT (Access + Refresh Tokens)
 
 ------------------------------------------------------------------------
 
 ## ⚙️ Features
 
--   ➕ Add, update, and delete expenses and income\
+-   ➕ Add, update, and delete expenses and income
 -   📊 View all expenses and income clearly **visualized through
-    charts**\
--   📁 Download income and expense data as **Excel files**\
--   🔐 Secure authentication system using JWT\
+    charts**
+-   📁 Download income and expense data as **Excel files**
+-   🔐 Secure authentication system using JWT
 -   🔄 Persistent login sessions using access & refresh tokens
 
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ npm run dev
 ## 📊 Results & Conclusion
 
 This project helped me build a strong foundation in full-stack web
-development.\
+development.
 I now clearly understand:
 
 -   How frontend and backend interact
@@ -91,8 +91,8 @@ I now clearly understand:
 
 ## 🔮 Future Work
 
--   Integrate with payment applications for automatic expense tracking\
--   Add AI-based insights for spending habits\
+-   Integrate with payment applications for automatic expense tracking
+-   Add AI-based insights for spending habits
 -   Improve UI/UX for a more polished user experience
 
 ------------------------------------------------------------------------
@@ -100,7 +100,7 @@ I now clearly understand:
 ## 👨‍💻 Author
 
 **Mudit Kumar Singh**\
-📧 Email: muditksingh96184@gmail.com\
+📧 Email: muditksingh96184@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/webdev-mudit-kumar-singh/
 
 ------------------------------------------------------------------------
