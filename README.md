@@ -83,8 +83,8 @@ This project helped me build a strong foundation in full-stack web
 development.\
 I now clearly understand:
 
--   How frontend and backend interact\
--   How authentication systems work in real applications\
+-   How frontend and backend interact
+-   How authentication systems work in real applications
 -   How to structure and build scalable web apps
 
 ------------------------------------------------------------------------
