@@ -9,7 +9,8 @@ understanding of how modern web applications work end-to-end.
 
 🔗 **Repository:**
 https://github.com/muditkumarsingh/Expense-Tracker.git
-🌐 **Live Demo:** https://expense-tracker-omega-khaki-99.vercel.app/
+🌐 **Live Demo:**
+https://expense-tracker-omega-khaki-99.vercel.app/
 
 ------------------------------------------------------------------------
 
